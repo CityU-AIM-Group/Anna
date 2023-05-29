@@ -1,5 +1,7 @@
 ## [Adjustment and Alignment for Unbiased Open Set Domain Adaptation (CVPR-23)](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Adjustment_and_Alignment_for_Unbiased_Open_Set_Domain_Adaptation_CVPR_2023_paper.html)
 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Adjustment_and_Alignment_for_Unbiased_Open_Set_Domain_Adaptation_CVPR_2023_paper.html)] [[Video Presentation](https://www.youtube.com/watch?v=hFZn16ntyXw)]
+
 By [Wuyang Li](https://wymancv.github.io/wuyang.github.io/)
 
 ## Quick Summary
